@@ -1,0 +1,25 @@
+[33mcommit b24c0f34b9da63fc0bbdf17d0f0545747a0c42ac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Valentyn <valentyn.petriv12@gmail.com>
+Date:   Tue Mar 10 20:11:52 2020 +0200
+
+    Revert "aaaa"
+    
+    This reverts commit a2622139309c5038ac6769526c1b819ab73b4a58.
+
+[33mcommit a2622139309c5038ac6769526c1b819ab73b4a58[m
+Author: Valentyn <valentyn.petriv12@gmail.com>
+Date:   Tue Mar 10 20:11:37 2020 +0200
+
+    aaaa
+
+[33mcommit 7bbda74227c993f99b5a3cd4fd2be2717a4d4600[m
+Author: Valentyn <valentyn.petriv12@gmail.com>
+Date:   Tue Mar 10 20:00:15 2020 +0200
+
+    Hello world to Valentyn
+
+[33mcommit 124877b8cdd0e5389a3d11c0e2eaf2b126fa2f45[m
+Author: Valentyn <valentyn.petriv12@gmail.com>
+Date:   Tue Mar 10 19:54:16 2020 +0200
+
+    The first commit for HelloWorldGit project
